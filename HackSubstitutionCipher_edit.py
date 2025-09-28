@@ -28,11 +28,9 @@ for cipher_char, eng_char in mapping.items():
 # Optional manual adjustments to improve decryption quality
 mapping["◐"] = "O"
 mapping["●"] = "N"
-mapping["◉"] = "J"
 mapping["⊠"] = "F"
 mapping["◕"] = "T"
 mapping["◇"] = "H"
-mapping["⊟"] = "E"
 mapping["∆"] = "A"
 mapping["◑"] = "P"
 mapping["◍"] = "L"
